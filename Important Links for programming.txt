@@ -1,0 +1,31 @@
+
+Tutorials Links: Java
+https://www.w3schools.com/java/java_variables.asp
+https://www.javatpoint.com/java-program-to-multiply-two-matrices
+Java 150 program in youtube channels :
+https://www.youtube.com/watch?v=wlcqGXxz7Oc&list=PLsjUcU8CQXGGX_f8J-72CS8ikTjl-6qKJ&index=2
+
+best Website to learn programming:
+https://www.guru99.com/java-arrays.html
+https://www.toolsqa.com/software-testing/severity-vs-priority/
+https://www.testbytes.net/blog/manual-or-automated-testing-which-to-use/
+https://www.javatpoint.com/java-program-to-multiply-two-matrices
+https://www.theforage.com/
+500 Questions for Software Testing Links:
+https://www.qafox.com/software-testing-interview-questions-and-answers/
+
+Top companies careers page links:
+https://www.linkedin.com/feed/update/urn:li:activity:6987802066718973952/?utm_source=share&utm_medium=member_android
+
+RoadMap for Programming:
+Links: https://roadmap.sh/
+
+GITHUB:
+https://git-scm.com/downloads
+Login : https://github.com/
+email: bjohnpaul0609
+pwd: Johnpaul@1991
+Enter a Username
+GitHuubWelcome
+Repository name : MyFolder
+

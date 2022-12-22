@@ -1,0 +1,18 @@
+>>>>>>>>Push<<<<<<<<<
+git init
+git remote add origin https://github.com/Seranmadevi/TestProject.git
+git status
+git add .
+git status
+git commit -m "first"
+git config --global user.email "seranmadeviv@gmail.com"
+git config --global user.name "Seranmadevi"
+git commit -m "first"
+git push origin master
+Go and refresh git hub
+
+
+>>>>>>>>>>>>Pull<<<<<<
+git clone https://github.com/Seranmadevi/TestProject
+git pull origin master
+
